@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="143" height="143" viewBox="0 0 143 143">
+  <defs>
+    <filter id="Elipse_2" x="0" y="0" width="143" height="143" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <circle id="Elipse_3" data-name="Elipse 3" cx="62.5" cy="62.5" r="62.5" transform="translate(125 80)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="perfilFoto" transform="translate(-116 -74)">
+    <g transform="matrix(1, 0, 0, 1, 116, 74)" filter="url(#Elipse_2)">
+      <circle id="Elipse_2-2" data-name="Elipse 2" cx="62.5" cy="62.5" r="62.5" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <g id="Grupo_de_máscara_2" data-name="Grupo de máscara 2" clip-path="url(#clip-path)">
+      <path id="Icon_awesome-user-alt" data-name="Icon awesome-user-alt" d="M56.244,63.274A31.637,31.637,0,1,0,24.607,31.637,31.645,31.645,0,0,0,56.244,63.274ZM84.365,70.3H72.26a38.245,38.245,0,0,1-32.032,0H28.122A28.12,28.12,0,0,0,0,98.426v3.515a10.548,10.548,0,0,0,10.546,10.546h91.4a10.548,10.548,0,0,0,10.546-10.546V98.426A28.12,28.12,0,0,0,84.365,70.3Z" transform="translate(131 92.513)" fill="#a7a7a7"/>
+    </g>
+  </g>
+</svg>
