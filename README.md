@@ -1,17 +1,18 @@
 
 <h4 align="center">
-<img src="nometheme-child/screenshot.jpg" /><br>
- <b>Tema Base para Desenvolvimento de Child no Wordpress</b> 🦸‍♂️
+<img src="screenshot/screenshot.JPG" /><br>
+ <b>App Guia dos Olgos</b> 🦸‍♂️
 </h4>
 
 <br>
 
 ### :rocket: Tecnologias usadas
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-- [Wordpress]
-- [Php]
+- [VueJS]
+- [Quasar]
 - [html]
 - [Css]
+- [VueRouter]
 
 
 
