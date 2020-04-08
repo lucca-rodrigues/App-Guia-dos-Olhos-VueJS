@@ -1,7 +1,7 @@
 
 <h4 align="center">
 <img src="screenshot/screenshot.JPG" /><br>
- <b>App Guia dos Olgos</b> 🦸‍♂️
+ <b>App Guia dos Olhos</b> 🦸‍♂️
 </h4>
 
 <br>
