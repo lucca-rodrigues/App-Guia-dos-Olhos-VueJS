@@ -1,27 +1,49 @@
-# Quasar App (a)
 
-A Quasar Framework app
+<h4 align="center">
+<img src="nometheme-child/screenshot.jpg" /><br>
+ <b>Tema Base para Desenvolvimento de Child no Wordpress</b> 🦸‍♂️
+</h4>
 
-## Install the dependencies
-```bash
-yarn
-```
+<br>
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
+### :rocket: Tecnologias usadas
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+- [Wordpress]
+- [Php]
+- [html]
+- [Css]
 
-### Lint the files
-```bash
-yarn run lint
-```
 
-### Build the app for production
-```bash
-quasar build
-```
 
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
-# App-Guia-dos-Olhos
+### :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+### 📱 Social
+
+Me acompanhe nas minhas redes sociais.
+
+<p align="center">
+
+   <a href="https://github.com/lucca-rodrigues" target="_blank" >
+    <img alt="Github" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github"></a>
+
+  <a href="https://www.instagram.com/_luccaoficial/" target="_blank" >
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram--%23F8952D?style=social&logo=instagram"></a>
+
+  <a href="https://www.facebook.com/luccarodriguesgtr" target="_blank" >
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook--%23F8952D?style=social&logo=facebook"></a>
+
+  <a href="https://www.linkedin.com/in/lucas-rodrigues-66a2b07a/" target="_blank" >
+    <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin"></a>
+
+  <a href="mailto:contato.luccarodrigues@gmail.com" target="_blank" >
+    <img alt="Email" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail"></a>
+
+  <a href="https://api.whatsapp.com/send?phone=5541984495419" target="_blank" >
+    <img alt="WhatsApp" src="https://img.shields.io/badge/Whatsapp--%23F8952D?style=social&logo=whatsapp"></a>
+</p>
+
+---
+
+Feito com ❤️ by **Lucca Rodrigues** 🤙
